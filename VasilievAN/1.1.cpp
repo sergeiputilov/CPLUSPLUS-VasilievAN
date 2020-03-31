@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	// Выводится сообщение
+	// Message
 	cout << "Hello, World!\n";
 	return 0;
 }
